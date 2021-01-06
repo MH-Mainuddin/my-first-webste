@@ -188,7 +188,7 @@ transition: .5s;
 .portfolio-section .col:nth-child(3){
 margin-left: 0;
 }
-.inquiry{
+.inquiry-section{
 padding: 100px 0;
 background:linear-gradient(rgba(255,221,153,0.9),rgba(255,221,153,0.9)),url(img/portfolio.jpg);
 background-repeat: no-repeat;
@@ -196,7 +196,7 @@ background-size: cover;
 background-position: center top;
 text-align: center;
 }
-.inquiry-box{
+.inquiry-bener{
 overflow: hidden;
 width: 70%;
 margin: auto;
@@ -210,7 +210,7 @@ direction: center;
 width: 50%;
 float: left;
 }
-.inquiry-box h2{
+.inquiry-bener h2{
 font-size: 50px;
 margin: 0;
 padding: 0;
@@ -218,23 +218,20 @@ letter-spacing: 2px;
 color: #fff;
 }
 
-.inquiry-btn {
+.inquiry--btn {
 text-align: right;
 margin-top: 15px;
 margin-left: 50%;
 background-color:#fde0a5;
 border-bottom: 3px solid #e7cc95;
 }
-
-/* Footer Section */
-
-.footer{
+.footer-section{
 text-align: center;
 padding: 50px 0;
 background-color:#0a0a0a;
 }
 
-.footer h4{
+.footer-section h4{
 color: #fff;
 font-size: 24px;
 padding-top: 0;
@@ -242,11 +239,11 @@ padding: 0px;
 margin: 0;
 letter-spacing: 2px;
 }
-.email{
+.my-email{
 padding-top: 0;
 margin: 5px 0;
 }
-.footer .email a{
+.footer-section .my-email a{
 font-size: 36px;
 color: #ffff;
 padding: 5px 0;
@@ -255,32 +252,32 @@ text-decoration: none;
 display: inline-block;
 }
 
-.footer-social ul {
+.social ul {
 margin: 0;
 padding: 0;
 list-style: none;
 }
 
-.footer-social ul li {
+.social ul li {
 display: inline-block;
 }
 
-.footer-social ul li a {
+.social ul li a {
 display: block;
 padding: 5px;
 }
 
-.footer-social ul li a img {
+.social ul li a img {
 width: 40px;
 height: 40px;
 }
 
-.copyright{
+.copyright-worde{
 padding-top: 5px;
 text-align: center;
 color: #f3e3e3;
 }
-.copyright a{
+.copyright-worde a{
 display: inline-block;
 color: #f3e3e3;
 text-decoration: none;
